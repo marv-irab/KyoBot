@@ -1,0 +1,175 @@
+
+Utility commands:
+
+• /restart
+• /shutdown
+• /status
+• /github
+• /uptime
+• /botinfo
+
+
+Slav-certified commands:
+
+• /vodka
+• /squat
+• /slav
+• /gulag
+• /ungulag
+
+
+F R E E D O M commands:
+
+• /airstrike
+• /artillery
+• /orbitalstrike
+• /nuke
+
+Moderation commands:
+
+• /rules
+• /setdescription
+• /setexitmessage
+• /setjoinmessage
+• /setrules
+• /mods
+• /ban
+• /unban
+• /helpSPLITHERE
+
+Dope commands:
+
+• /urban
+• /spotify
+• /imdb
+• /youtube
+• /mal
+• /search
+• /nxmac
+• /memes
+• /caveposts
+
+
+Exclusive commands:
+
+🔐 /makegay 
+🔐 /makenewb   
+🔐 /rain      
+🔐 /shit      
+🔐 /wither
+
+
+Other commands:   
+
+• /echo
+• /recite
+• /hornyjail
+• /chatsmoke
+• /kermitsuislide
+• /prank
+• /temp 
+• /weeb  &  /weebsSPLITHERE
+
+Boring commands 1/4:
+
+• /8ball
+• /amen
+• /attacc
+• /beer
+• /belch
+• /betrayed
+• /blush
+• /catch
+• /challenge
+• /coffee
+• /commie
+• /cough
+• /crabrave
+• /cricket
+• /cringe
+• /cry
+• /dab
+• /dance
+• /devitoapproves
+• /dropkickSPLITHERESPLITHERE
+
+Boring commands 2/4:
+• /exterminate
+• /f
+• /fart
+• /fatality
+• /fbi
+• /feed
+• /fyou
+• /gamemode
+• /gamerule
+• /getdescription
+• /getlyrics
+• /gettitle
+• /ghey
+• /give
+• /gn
+• /high5
+• /hitler
+• /holdback
+• /hug
+• /johnpissed
+• /kick
+• /kill
+• /kissSPLITHERE
+
+Boring commands 3/4:
+• /laugh
+• /lonely
+• /love
+• /naenae
+• /nervous
+• /news
+• /nice
+• /no
+• /oink
+• /pat
+• /pfp
+• /pout
+• /protecc
+• /psspss
+• /punch
+• /quickscope
+• /rage
+• /rd
+• /reee
+• /rip
+• /rng
+• /roastSPLITHERE
+
+Boring commands 4/4:
+• /scared
+• /scoff
+• /scream
+• /shocked
+• /shrekapproves
+• /slap
+• /smack
+• /sneeze
+• /snowball
+• /stab
+• /stare
+• /surprise
+• /tanswer
+• /thirsty
+• /throw
+• /tongue
+• /trivia
+• /trustfall
+• /vibin
+• /vsco
+• /whatislove
+• /wheeze
+• /whothefuckasked
+• /wryy
+• /wyr
+• /yeeeeeeet
+• /yeet
+• /yes
+• /yomama
+• /zoink
