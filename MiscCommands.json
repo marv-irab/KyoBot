@@ -30,7 +30,7 @@
  "Chatsmoke": ["Poof! u/%(SENDER) vanished into thin air!"],
  "chatsmoke": ["Poof! u/%(SENDER) vanished into thin air!"],
  "givecake": ["%(SENDER) gave you a 🍰, u/%(ALLARGS)!"],
- 
+ "JamesBurg": ["Whoa, u/%(SENDER) has James Bond Hamburgered %(ALLARGS) 's sister."],
     
     
  "8ball": ["It is certain.","It is decidedly so.","Without a doubt","Yes - definitely","You may rely on it.","As I see it, yes.","Most likely.","Outlook good.","Yes.","Signs point to yes.","Reply hazy, try again.","Ask again later.","Better not tell you now.","Cannot predict now.","Concentrate and ask again.",
